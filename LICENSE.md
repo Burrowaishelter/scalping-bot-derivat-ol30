@@ -1,4 +1,4 @@
-# 
+# automatic scalping bot for derivatives Module | slippage-control + scalping offers the most advanced scalping bot for derivatives, with slippage-control and scalping. Ideal for
 
 
 
